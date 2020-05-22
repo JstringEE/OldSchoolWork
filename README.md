@@ -1,4 +1,4 @@
-Take Home Labs for 4550 Control System Design
+Old C Code for 4550 Control System Design
 =====================================================================
 
 Blah Blah
@@ -6,11 +6,18 @@ Blah Blah
 Repository Contents
 -------------------
 
-* **Take Home Lab 1** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
-
-
-
-* **Take Home Lab 2** - Additional documentation for the user. These files are ignored by the IDE. 
+* **Lab1** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
+* **Lab2** - Additional documentation for the user. These files are ignored by the IDE. 
+* **Lab3** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
+* **Lab4** - Additional documentation for the user. These files are ignored by the IDE.
+* **Lab5** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
+* **Lab6** - Additional documentation for the user. These files are ignored by the IDE.
+* **Lab7** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
+* **Lab8** - Additional documentation for the user. These files are ignored by the IDE. 
+* **Lab9** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
+* **Lab10** - Additional documentation for the user. These files are ignored by the IDE.
+* **Take Home Lab1** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
+* **Take Home Lab2** - Additional documentation for the user. These files are ignored by the IDE.
 
 Products that use this Library 
 ---------------------------------
